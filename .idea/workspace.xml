@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0eca81c-cf74-4377-ab94-4fbbeed524ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CPSC5520.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1.py" afterDir="false" />
+    <list default="true" id="e0eca81c-cf74-4377-ab94-4fbbeed524ac" name="Changes" comment="- update lab1 w class Lab1Client">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gcd.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/gcd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/lab1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,11 +65,33 @@
       <workItem from="1727917590980" duration="1826000" />
       <workItem from="1727920974292" duration="1167000" />
       <workItem from="1727976875763" duration="3503000" />
-      <workItem from="1728667971083" duration="375000" />
+      <workItem from="1728667971083" duration="3673000" />
     </task>
+    <task id="LOCAL-00001" summary="-add CPSC5520 project&#10;-add lab1.py&#10;-add gcd.py">
+      <option name="closed" value="true" />
+      <created>1728668638558</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728668638559</updated>
+    </task>
+    <task id="LOCAL-00002" summary="- update lab1 w class Lab1Client">
+      <option name="closed" value="true" />
+      <created>1728676838457</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728676838457</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="-add CPSC5520 project&#10;-add lab1.py&#10;-add gcd.py" />
+    <MESSAGE value="- update lab1 w class Lab1Client" />
+    <option name="LAST_COMMIT_MESSAGE" value="- update lab1 w class Lab1Client" />
   </component>
 </project>
